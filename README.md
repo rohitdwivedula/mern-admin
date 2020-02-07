@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-A react admin dashboard to track metrics of a website. Made as a part of coursework for Software Engineering (IS F341). Template by Crystal (David Tran). 
+A react admin dashboard to track metrics of a website. Made as a part of coursework for Software Engineering (IS F341). Template by Crystal (David Tran) released under MIT lisence. 
 
 ## Build Instructions
 *Development*
@@ -14,10 +14,3 @@ npm start
 ```
 npm run build
 ```
-
-```
-## Author
-David Tran [@davidtranwd](https://twitter.com/davidtranwd)
-
-## License
-Licensed under MIT
